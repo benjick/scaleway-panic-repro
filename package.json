@@ -1,0 +1,11 @@
+{
+    "name": "scaleway-panic-repro",
+    "main": "index.ts",
+    "devDependencies": {
+        "@types/node": "^16"
+    },
+    "dependencies": {
+        "@lbrlabs/pulumi-scaleway": "^1.7.0",
+        "@pulumi/pulumi": "^3.0.0"
+    }
+}
